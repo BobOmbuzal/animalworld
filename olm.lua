@@ -14,7 +14,10 @@ stepheight = 0.0,
 	mesh = "Olm.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureolm.png"},
+	"textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png",
+	"textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png",
+	"textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png",
+	"textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png", "textureolm.png"
 	},
 	sounds = {},
 	makes_footstep_sound = false,

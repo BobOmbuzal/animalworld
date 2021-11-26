@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:moose", {
 	visual = "mesh",
 	mesh = "Moose.b3d",
 	textures = {
-		{"texturemoose.png"},
+	"texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png",
+	"texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png",
+	"texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png",
+	"texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png", "texturemoose.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

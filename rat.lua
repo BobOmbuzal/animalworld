@@ -14,8 +14,10 @@ mobs:register_mob("animalworld:rat", {
 	visual = "mesh",
 	mesh = "Rat.b3d",
 	textures = {
-		{"texturerat.png"},
-		{"texturerat.png"},
+	"texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png",
+	"texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png",
+	"texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png",
+	"texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png", "texturerat.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

@@ -14,7 +14,10 @@ stepheight = 0.0,
 	mesh = "Carp.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturecarp.png"},
+	"texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png",
+	"texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png",
+	"texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png",
+	"texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png", "texturecarp.png"
 	},
 	sounds = {},
 	makes_footstep_sound = false,

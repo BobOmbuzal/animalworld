@@ -11,7 +11,10 @@ stepheight = 0.6,
 	mesh = "Seal.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureseal.png"},
+	"textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png",
+	"textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png",
+	"textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png",
+	"textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png", "textureseal.png"
 	},
 	sounds = {
 		random = "animalworld_seal",

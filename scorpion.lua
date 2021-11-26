@@ -13,7 +13,10 @@ mobs:register_mob("animalworld:scorpion", {
 	mesh = "Scorpion.b3d",
 	visual_size = {x = 1, y = 1},
 	textures = {
-		{"texturescorpion.png"},
+	"texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png",
+	"texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png",
+	"texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png",
+	"texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png", "texturescorpion.png"
 	},
 	sounds = {
 	},

@@ -15,10 +15,16 @@ mobs:register_mob("animalworld:fox", {
 	visual = "mesh",
 	mesh = "Fox.b3d",
 	textures = {
-		{"texturefox.png"},
-		{"texturefox2.png"},
-		{"texturefox3.png"},
+	"texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png",
+	"texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png",
+	"texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png",
+	"texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png", "texturefox.png"
 	},
+--	textures = {
+--		{"texturefox.png"},
+--		{"texturefox2.png"},
+--		{"texturefox3.png"},
+--	},
 	makes_footstep_sound = true,
 	sounds = {
 	        random = "animalworld_fox3",

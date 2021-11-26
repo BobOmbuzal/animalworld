@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:gnu", {
 	visual = "mesh",
 	mesh = "Gnu.b3d",
 	textures = {
-		{"texturegnu.png"},
+	"texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png",
+	"texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png",
+	"texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png",
+	"texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png", "texturegnu.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

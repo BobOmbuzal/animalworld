@@ -10,7 +10,10 @@ mobs:register_mob("animalworld:otter", {
 	mesh = "Otter.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureotter.png"},
+	"textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png",
+	"textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png",
+	"textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png",
+	"textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png", "textureotter.png"
 	},
 	sounds = {
 		random = "animalworld_otter",

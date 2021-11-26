@@ -21,12 +21,18 @@ mobs:register_mob("animalworld:monkey", {
 	visual = "mesh",
 	mesh = "Monkey.b3d",
 	textures = {
-		{"texturemonkey.png"},
-		{"texturemonkey2.png"},
-		{"texturemonkey3.png"},
-		{"texturemonkey4.png"},
-		{"texturemonkey5.png"},
+	"texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png",
+	"texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png",
+	"texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png",
+	"texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png", "texturemonkey.png"
 	},
+--	textures = {
+--		{"texturemonkey.png"},
+--		{"texturemonkey2.png"},
+--		{"texturemonkey3.png"},
+--		{"texturemonkey4.png"},
+--		{"texturemonkey5.png"},
+--	},
 	makes_footstep_sound = true,
 	sounds = {
 		random = "animalworld_monkey",

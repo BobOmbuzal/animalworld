@@ -14,7 +14,10 @@ stepheight = 3,
 	mesh = "Bat.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturebat.png"},
+	"texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png",
+	"texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png",
+	"texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png",
+	"texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png", "texturebat.png"
 	},
 	sounds = {
 		random = "animalworld_bat",

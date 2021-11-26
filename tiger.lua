@@ -14,7 +14,10 @@ stepheight = 2,
 	mesh = "Tiger.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturetiger.png"},
+	"texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png",
+	"texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png",
+	"texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png",
+	"texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png", "texturetiger.png"
 	},
 	sounds = {
 		random = "animalworld_tiger",

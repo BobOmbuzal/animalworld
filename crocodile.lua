@@ -14,7 +14,10 @@ stepheight = 1,
 	mesh = "Crocodile.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturecrocodile.png"},
+	"texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png",
+	"texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png",
+	"texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png",
+	"texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png", "texturecrocodile.png"
 	},
 	sounds = {
 		random = "animalworld_crocodile",

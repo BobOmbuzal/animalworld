@@ -13,10 +13,12 @@ stepheight = 3,
 	mesh = "Frog.b3d",
 	drawtype = "front",
 	textures = {
-		{"texturefrog.png"},
-
+	"texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png",
+	"texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png",
+	"texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png",
+	"texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png", "texturefrog.png"
 	},
-sounds = {
+	sounds = {
 		random = "animalworld_frog",},
 	makes_footstep_sound = true,
 	walk_velocity = 2,

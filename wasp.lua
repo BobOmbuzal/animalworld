@@ -13,7 +13,10 @@ mobs:register_mob("animalworld:wasp", {
 	mesh = "Wasp.b3d",
 	visual_size = {x = 1, y = 1},
 	textures = {
-		{"texturewasp.png"},
+	"texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png",
+	"texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png",
+	"texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png",
+	"texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png", "texturewasp.png"
 	},
 	sounds = {
 		random = "animalworld_wasp",

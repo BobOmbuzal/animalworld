@@ -14,7 +14,10 @@ stepheight = 0.0,
 	mesh = "Goby.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturegoby.png"},
+	"texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png",
+	"texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png",
+	"texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png",
+	"texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png", "texturegoby.png"
 	},
 	sounds = {},
 	makes_footstep_sound = false,

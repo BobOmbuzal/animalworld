@@ -13,7 +13,10 @@ mobs:register_mob("animalworld:polarbear", {
 	mesh = "Polarbear.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturepolarbear.png"},
+	"texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png",
+	"texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png",
+	"texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png",
+	"texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png", "texturepolarbear.png"
 	},
 	sounds = {
 		random = "animalworld_bear",

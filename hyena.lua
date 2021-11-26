@@ -14,7 +14,10 @@ stepheight = 2,
 	mesh = "Hyena.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturehyena.png"},
+	"texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png",
+	"texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png",
+	"texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png",
+	"texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png", "texturehyena.png"
 	},
 	sounds = {
 		random = "animalworld_hyena",

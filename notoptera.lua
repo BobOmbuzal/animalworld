@@ -14,7 +14,10 @@ mobs:register_mob("animalworld:notoptera", {
 	visual = "mesh",
 	mesh = "Notoptera.b3d",
 	textures = {
-		{"texturenotoptera.png"},
+	"texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png",
+	"texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png",
+	"texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png",
+	"texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png", "texturenotoptera.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

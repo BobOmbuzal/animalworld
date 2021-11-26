@@ -14,7 +14,10 @@ stepheight = 1,
 	mesh = "HippoNEW.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturehippoNEW.png"},
+	"texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png",
+	"texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png",
+	"texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png",
+	"texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png", "texturehippoNEW.png"
 	},
 	sounds = {
 		random = "animalworld_hippo",

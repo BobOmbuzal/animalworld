@@ -14,7 +14,10 @@ stepheight = 2,
 	mesh = "Elephant.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureelephant.png"},
+	"textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png",
+	"textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png",
+	"textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png",
+	"textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png", "textureelephant.png"
 	},
 	sounds = {
 		random = "animalworld_elephant",

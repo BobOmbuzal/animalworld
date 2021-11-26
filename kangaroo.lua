@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:kangaroo", {
 	visual = "mesh",
 	mesh = "Kangaroo.b3d",
 	textures = {
-		{"texturekangaroo.png"},
+	"texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png",
+	"texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png",
+	"texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png",
+	"texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png", "texturekangaroo.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {},

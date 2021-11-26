@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:muskox", {
 	visual = "mesh",
 	mesh = "Muskox.b3d",
 	textures = {
-		{"texturemuskox.png"},
+	"texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png",
+	"texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png",
+	"texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png",
+	"texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png", "texturemuskox.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

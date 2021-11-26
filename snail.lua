@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:snail", {
 	visual = "mesh",
 	mesh = "Snail.b3d",
 	textures = {
-		{"texturesnail.png"},
+	"texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png",
+	"texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png",
+	"texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png",
+	"texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png", "texturesnail.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

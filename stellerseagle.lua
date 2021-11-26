@@ -15,7 +15,10 @@ stepheight = 3,
 	mesh = "Stellerseagle.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturestellerseagle.png"},
+	"texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png",
+	"texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png",
+	"texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png",
+	"texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png", "texturestellerseagle.png"
 	},
 	sounds = {
 		random = "animalworld_stellerseagle",

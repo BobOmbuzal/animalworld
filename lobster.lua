@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:lobster", {
 	visual = "mesh",
 	mesh = "Lobster.b3d",
 	textures = {
-		{"texturelobster.png"},
+	"texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png",
+	"texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png",
+	"texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png",
+	"texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png", "texturelobster.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

@@ -14,7 +14,10 @@ stepheight = 3,
 	mesh = "Locust.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturelocust.png"},
+	"texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png",
+	"texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png",
+	"texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png",
+	"texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png", "texturelocust.png"
 	},
 	sounds = {
 		random = "animalworld_locust",

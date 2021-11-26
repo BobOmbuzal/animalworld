@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:camel", {
 	visual = "mesh",
 	mesh = "Camel.b3d",
 	textures = {
-		{"texturecamel.png"},
+	"texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png",
+	"texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png",
+	"texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png",
+	"texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png", "texturecamel.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

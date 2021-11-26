@@ -14,7 +14,10 @@ mobs:register_mob("animalworld:goldenmole", {
 	visual = "mesh",
 	mesh = "Goldenmole.b3d",
 	textures = {
-		{"texturegoldenmole.png"},
+	"texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png",
+	"texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png",
+	"texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png",
+	"texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png", "texturegoldenmole.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

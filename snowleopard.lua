@@ -14,7 +14,10 @@ stepheight = 5,
 	mesh = "Snowleopard.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturesnowleopard.png"},
+	"texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png",
+	"texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png",
+	"texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png",
+	"texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png", "texturesnowleopard.png"
 	},
 	sounds = {
 		random = "animalworld_snowleopard",

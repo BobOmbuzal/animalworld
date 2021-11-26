@@ -14,8 +14,10 @@ stepheight = 1,
 	mesh = "Tortoise.b3d",
 	drawtype = "front",
 	textures = {
-		{"texturetortoise.png"},
-
+	"texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png",
+	"texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png",
+	"texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png",
+	"texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png", "texturetortoise.png"
 	},
 	sounds = {},
 	makes_footstep_sound = false,

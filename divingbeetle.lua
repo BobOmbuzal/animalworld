@@ -13,7 +13,10 @@ mobs:register_mob("animalworld:divingbeetle", {
 	visual = "mesh",
 	mesh = "Divingbeetle.b3d",
 	textures = {
-		{"texturedivingbeetle.png"},
+	"texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png",
+	"texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png",
+	"texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png",
+	"texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png", "texturedivingbeetle.png"
 	},
 	makes_footstep_sound = false,
 	sounds = {

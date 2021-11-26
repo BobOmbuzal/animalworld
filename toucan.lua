@@ -14,7 +14,10 @@ stepheight = 6,
 	mesh = "Toucan.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturetoucan.png"},
+	"texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png",
+	"texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png",
+	"texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png",
+	"texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png", "texturetoucan.png"
 	},
 	sounds = {
 		random = "animalworld_toucan",

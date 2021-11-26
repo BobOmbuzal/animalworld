@@ -14,8 +14,10 @@ stepheight = 1,
 	mesh = "Crab.b3d",
 	drawtype = "front",
 	textures = {
-		{"texturecrab.png"},
-
+	"texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png",
+	"texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png",
+	"texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png",
+	"texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png", "texturecrab.png"
 	},
 	sounds = {
 		random = "animalworld_crab",

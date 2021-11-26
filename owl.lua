@@ -15,7 +15,10 @@ stepheight = 3,
 	mesh = "Owl.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureowl.png"},
+	"textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png",
+	"textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png",
+	"textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png",
+	"textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png", "textureowl.png"
 	},
 	sounds = {
 		random = "animalworld_owl",

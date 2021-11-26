@@ -14,7 +14,10 @@ stepheight = 0.6,
 	mesh = "Leopardseal.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureleopardseal.png"},
+	"textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png",
+	"textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png",
+	"textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png",
+	"textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png", "textureleopardseal.png"
 	},
 	sounds = {
 		random = "animalworld_leopardseal",

@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:nymph", {
 	visual = "mesh",
 	mesh = "Nymph.b3d",
 	textures = {
-		{"texturenymph.png"},
+	"texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png",
+	"texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png",
+	"texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png",
+	"texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png", "texturenymph.png"
 	},
 	makes_footstep_sound = false,
 	sounds = {

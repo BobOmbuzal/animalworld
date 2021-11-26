@@ -21,7 +21,10 @@ stepheight = 2,
 	mesh = "Kobra.b3d",
 	visual_size = {x = 0.3, y = 0.3},
 	textures = {
-		{"texturekobra.png"},
+	"texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png",
+	"texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png",
+	"texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png",
+	"texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png", "texturekobra.png"
 	},
 	sounds = {
 		random = "animalworld_kobra",

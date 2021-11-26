@@ -17,7 +17,10 @@ stepheight = 4,
 	mesh = "Spider.b3d",
 	visual_size = {x = 0.3, y = 0.3},
 	textures = {
-		{"texturespider.png"},
+	"texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png",
+	"texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png",
+	"texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png",
+	"texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png", "texturespider.png"
 	},
 	sounds = {
 		random = "animalworld_spider",

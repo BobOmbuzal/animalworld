@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:reindeer", {
 	visual = "mesh",
 	mesh = "Reindeer.b3d",
 	textures = {
-		{"texturereindeer.png"},
+	"texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png",
+	"texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png",
+	"texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png",
+	"texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png", "texturereindeer.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

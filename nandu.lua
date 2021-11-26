@@ -15,9 +15,10 @@ stepheight = 1,
 	visual = "mesh",
 	mesh = "Nandu.b3d",
 	textures = {
-		{"texturenandu.png"}, -- white
-		{"texturenandu.png"},
-		{"texturenandu.png"},
+	"texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png",
+	"texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png",
+	"texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png",
+	"texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png", "texturenandu.png"
 	},
 	child_texture = {
 		{"texturenandu.png"},

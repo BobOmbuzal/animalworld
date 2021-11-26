@@ -11,9 +11,10 @@ stepheight = 1,
 	mesh = "Hare.b3d",
 	drawtype = "front",
 	textures = {
-		{"texturehare.png"},
-		{"texturehare.png"},
-		{"texturehare.png"},
+	"texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png",
+	"texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png",
+	"texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png",
+	"texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png", "texturehare.png"
 	},
 	sounds = {},
 	makes_footstep_sound = false,

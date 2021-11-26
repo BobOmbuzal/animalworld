@@ -15,8 +15,10 @@ mobs:register_mob("animalworld:beluga", {
 	visual = "mesh",
 	mesh = "Beluga.b3d",
 	textures = {
-		{"texturebeluga.png"},
-
+	"texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png",
+	"texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png",
+	"texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png",
+	"texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png", "texturebeluga.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

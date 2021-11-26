@@ -13,7 +13,10 @@ mobs:register_mob("animalworld:termite", {
 	mesh = "Termite.b3d",
 	visual_size = {x = 1, y = 1},
 	textures = {
-		{"texturetermite.png"},
+	"texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png",
+	"texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png",
+	"texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png",
+	"texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png", "texturetermite.png"
 	},
 	sounds = {
 		random = "animalworld_termite",

@@ -14,9 +14,15 @@ stepheight = 0.0,
 	mesh = "Seahorse.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"textureseahorse.png"},
-		{"textureseahorse2.png"},
+	"textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png",
+	"textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png",
+	"textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png",
+	"textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png", "textureseahorse.png"
 	},
+--	textures = {
+--		{"textureseahorse.png"},
+--		{"textureseahorse2.png"},
+--	},
 	sounds = {},
 	makes_footstep_sound = false,
 	walk_velocity = 0.25,

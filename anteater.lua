@@ -15,7 +15,10 @@ mobs:register_mob("animalworld:anteater", {
 	visual = "mesh",
 	mesh = "Anteater.b3d",
 	textures = {
-		{"textureanteater.png"},
+	"textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png",
+	"textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png",
+	"textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png",
+	"textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png", "textureanteater.png"
 	},
 	makes_footstep_sound = true,
 	sounds = {

@@ -15,7 +15,10 @@ stepheight = 3,
 	mesh = "Dragonfly.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturedragonfly.png"},
+	"texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png",
+	"texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png",
+	"texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png",
+	"texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png", "texturedragonfly.png"
 	},
 	sounds = {
 		random = "animalworld_dragonfly",

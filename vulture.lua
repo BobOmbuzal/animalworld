@@ -14,7 +14,10 @@ stepheight = 3,
 	mesh = "Vulture.b3d",
 	visual_size = {x = 1.0, y = 1.0},
 	textures = {
-		{"texturevulture.png"},
+	"texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png",
+	"texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png",
+	"texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png",
+	"texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png", "texturevulture.png"
 	},
 	sounds = {
 		random = "animalworld_vulture",
